@@ -105,11 +105,10 @@ It must be possible to disconnect at least one pole of the TS accumulator by qui
 
 It can be used in many different applications as an interface between low voltage digital or control circuits and large power electronic devices.
 
-![An optocoupler](https://www.electronics-tutorials.ws/wp-content/uploads/2013/09/opto4.gif?fit=320%2C82?fit=320,226)
 
 Assume a photo-transistor device as shown. Current from the source signal passes through the input LED which emits an infra-red light whose intensity is proportional to the electrical signal.
 
-![A phototransistor](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/articles-opto2.gif)
+![A phototransistor](https://i0.wp.com/www.electricalandcontrol.com/wp-content/uploads/2021/04/Optoisolator.png?resize=207%2C132&ssl=1)
 
 This emitted light falls upon the base of the photo-transistor, causing it to switch-ON and conduct in a similar way to a normal bipolar transistor.
 The spectral response of the LED and the photo-sensitive device are closely matched being separated by a transparent medium such as glass, plastic or air. Since there is no direct electrical connection between the input and output of an optocoupler, electrical isolation up to 10kV is achieved.
