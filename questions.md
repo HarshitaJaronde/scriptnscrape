@@ -24,7 +24,7 @@ A red indicator light in the cockpit that is easily visible from inside and outs
 
 (iii) In a case where insulation between the HV and the LV becomes weak, the safety circuit should disconnect the HV source from the rest of the car to prevent risk of short circuit and damage of LV components as well as electric shock to the driver. It should also have a mechanism to tell the driver as well as the people outside the reason behind the TS switching off like using the red and green LEDs.
 
- 2.1 ![circuit diagram](C:/Users/HARSHITA/Downloads/WhatsApp Image 2025-06-21 at 15.02.14.jpeg)
+ 2.1 ![circuit diagram](WhatsApp Image 2025-06-21 at 15.02.14.jpeg)
 
 
 We need to know when the mc has been charged with 95% of maximum TS votage. **Therefore, the voltage drop across the mc when charged would be 0.95*403.2 V  = 380 V.**</br>
