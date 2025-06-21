@@ -24,11 +24,12 @@ A red indicator light in the cockpit that is easily visible from inside and outs
 
 (iii) In a case where insulation between the HV and the LV becomes weak, the safety circuit should disconnect the HV source from the rest of the car to prevent risk of short circuit and damage of LV components as well as electric shock to the driver. It should also have a mechanism to tell the driver as well as the people outside the reason behind the TS switching off like using the red and green LEDs.
 
- 2.1)![circuit diagram]("C:\Users\HARSHITA\Downloads\WhatsApp Image 2025-06-21 at 15.02.14.jpeg")
+ 2.1)![circuit diagram](C:\Users\HARSHITA\Downloads\WhatsApp Image 2025-06-21 at 15.02.14.jpeg)
 
-We need to know when the mc has been charged with 95% of maximum TS votage. **Therefore, the voltage drop across the mc when charged would be 0.95*403.2 V  = 380 V.**
-The current for operation of relay (If) is 2mA and we keep R1 such that If = 2mA when the voltage across the mc becomes 380 V.
+We need to know when the mc has been charged with 95% of maximum TS votage. **Therefore, the voltage drop across the mc when charged would be 0.95*403.2 V  = 380 V.**</br>
+The current for operation of relay (If) is 2mA and we keep R1 such that If = 2mA when the voltage across the mc becomes 380 V.</br>
 Also, the forward voltage drop across the LED would be around 0.9 V as the datasheet tells that it would be 0.9 V at the least at If=5mA.
+**The MC_LV+ reading would be equal to Vcc until the relay closes i.e. until the charging of the mc but after charging the relay will close and the reading will suddenly drop to less than 0.6V.**
 
 Ic = 100mA when If = 2mA. Vcc and R2 we will adjust such that Ic remains 100mA and the voltage across the output terminals will drop to less than 0.6 V. This is when we come to know that the mc has been appropriately charged.
 
