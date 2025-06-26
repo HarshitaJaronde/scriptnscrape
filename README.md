@@ -34,7 +34,7 @@ Pin 8:  Supply +Vcc, This is the power supply pin and for general purpose TTL 55
 
 ## Monostable 555 Timer:
 
-![y](https://www.bing.com/images/search?view=detailV2&ccid=9IsS3Ren&id=988BC292761B804032B6744565A613A20C4BFF39&thid=OIP.9IsS3Renx8jHPQ3hX4VUJAAAAA&mediaurl=https%3a%2f%2fwww.researchgate.net%2fprofile%2fR-Arulmurugan-2%2fpublication%2f353878612%2ffigure%2ffig3%2fAS%3a1056250301276161%401628841104966%2fMonostable-of-555-timer-circuits.jpg&exph=358&expw=474&q=monostable+555+timer&simid=608007640358519711&FORM=IRPRST&ck=A23B5177AF8DEBE0081597D81962CB2D&selectedIndex=4&itb=0)
+![y](https://th.bing.com/th/id/OIP.muwpgYDroNfh3iVYsD840AHaD3?rs=1&pid=ImgDetMain)
 
 1)	When a negative (<Vcc/3) pulse is applied to the trigger input (pin 2) of the Monostable configured 555 Timer oscillator, the internal comparator, (comparator No1) detects this input(S=1) and “sets” the state of the flip-flop, changing the output from a “LOW” state to a “HIGH” state. (as Qprime is zero)
 2)	This action in turn turns “OFF” the discharge transistor connected to pin 7, thereby removing the short circuit across the external timing capacitor, C1.
