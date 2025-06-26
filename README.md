@@ -18,7 +18,7 @@ The basic 555 timer gets its name from the fact that there are three internally 
 
 **The single 555 Timer chip in its basic form is a Bipolar 8-pin mini Dual-in-line Package (DIP) device consisting of some 25 transistors, 2 diodes and about 16 resistors arranged to form two comparators, a flip-flop and a high current output stage as shown below.**
 
-![block](https://th.bing.com/th/id/OIP.O3gVUlSJO00BU3teD1TLDQAAAA?pid=ImgDet&w=159&h=133&c=7)
+![block](https://th.bing.com/th/id/OIP.O3gVUlSJO00BU3teD1TLDQAAAA?pid=ImgDet&w=500&h=500&c=7)
 
 ![di](C:\Users\HARSHITA\Downloads\555 timer.jpeg)
 
