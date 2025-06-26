@@ -20,7 +20,7 @@ The basic 555 timer gets its name from the fact that there are three internally 
 
 ![block](https://th.bing.com/th/id/OIP.O3gVUlSJO00BU3teD1TLDQAAAA?pid=ImgDet&w=500&h=500&c=7)
 
-![di]("555 timer.jpeg")
+![di](555 timer.jpeg)
 
 Pin 1 : It is connected to the ground (0V) supply rail
 Pin 2 : The inverting input to comparator 2 is connected to pin 2. A negative impulse on this pin ( voltage less then Vcc/3) makes S go high and hence Q prime goes low. It sets the internal flip-flop causing the output to switch from a “LOW” to a “HIGH” state.</br>
